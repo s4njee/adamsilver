@@ -35,13 +35,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runtime.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="runtime.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="token" pinned="false" current-in-tab="false">
@@ -193,9 +198,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49855492" visible="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49855492" visible="true" weight="0.3299435" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -289,6 +294,9 @@
           <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
